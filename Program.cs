@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace AdventOfCode2020
 {
@@ -6,7 +7,7 @@ namespace AdventOfCode2020
    {
       static void Main(string[] args)
       {
-         Day16.Part1();
+         Day13.Part2();
       }
    }
 }
